@@ -1,4 +1,4 @@
-module suipay::acess_control;
+module suipay::access_control;
 use suipay::config::{OfframpConfig, admin};
 use suipay::errors::NOT_ADMIN;
 
